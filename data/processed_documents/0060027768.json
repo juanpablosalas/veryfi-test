@@ -1,0 +1,140 @@
+{
+    "account_number": "M-182",
+    "bill_to": {
+        "address": "Fairlawn, NJ 07410",
+        "name": "Mr. Denis Sullivan",
+        "parsed_address": null,
+        "vat_number": null
+    },
+    "cashback": null,
+    "category": "Advertising & Marketing",
+    "created_date": "2024-06-20 14:06:31",
+    "currency_code": "USD",
+    "date": null,
+    "delivery_date": null,
+    "discount": null,
+    "document_reference_number": null,
+    "document_title": "SPECIAL NOTICE",
+    "document_type": "purchase_order",
+    "due_date": "2024-07-20",
+    "duplicate_of": null,
+    "external_id": null,
+    "id": 217871448,
+    "img_file_name": "217871448.jpg",
+    "img_thumbnail_url": "https://scdn.veryfi.com/receipts/546828ea174bda68/dac382bb-04b5-4b22-93c3-7800d4bb0658/thumbnail.jpg?Expires=1718893294&Signature=GfvzqukR8SNGI2~5Ah0o8C6tjHC9cmEIvsF1MAvUgw7TGiJ0AV6kCV~6urdf5prn6Ppz2zuCkUwFBM8fm3W~mSRCqHQ5TuV7iZfO6AGXjb5ZsMNhpZ6B3fbZx4NKyim3pMenhRuqWCs17Cr4mHenxyy0UUwZc8lE5hqe2BOwTxXfCoEHU9cbm6IxdN8OIfLUeCYMWzSbObN86OB5Tzuuqiu62n8Ka2fIY49YMDHMIGqDeKXmn-XmN7XQpwFxVIoypmftHmFhKfSVJdheByssWaTwKUzExIzk0pfAPZZbvPzIO7I8pDUYjVVIiSjhAMgyEuNYSxEHVfqF6b53HCN2Yg__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "img_url": "https://scdn.veryfi.com/receipts/546828ea174bda68/dac382bb-04b5-4b22-93c3-7800d4bb0658/28a6f420-6255-4743-9cff-c68da15a0f15.jpg?Expires=1718893294&Signature=Fo2buTOHADpEaUEa9LcObLkQRZe13lEQFigFE4atfUwUOw3ySNOfwcb99OdKcwu~HKbXMRe-2t7qqTGU9nMlBxSsKeP57PwvrwaPcBZyQwa2TPVnFJuVnICl7uOlGhYpax3F4GCC8P8tO0KW6aaep8vDeoMNwhiT7qsbHKgIYuQl8kDbUd3WPKzP2cJKgwQ3XKeYsfh4Y4DdBgW9WoAY4l8xjtNs~s84sVeadG5Txt5xuvQX0wKGQGJqGPdHLf5p4jqD~2GaH2jyZamw9PZiFU8bUPvgVlJ1kabnzsQ30bHMcdn4ExXAqk63Xparq9KIqNVxLWhNlULzM6m-zGis7g__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "insurance": null,
+    "invoice_number": null,
+    "is_duplicate": false,
+    "is_money_in": false,
+    "line_items": [
+        {
+            "date": null,
+            "description": "CARLTON Two-Sheet Station Posters\n46\" x 60\"\nPosters are printed 2 colors (red, black).\non 70 coated outdoor stock.\nCOPY FOR IDENTIFICATION\nToday, If You Smoke Please Try CARLTON\"\nWarning Statement \"D\" to read: SURGEON\nGENERAL'S WARNING: Cigarette smoke\ncontains Carbon Monoxide.\nPacking: Material to be kraft wrapped.\nOverruns to be held blank.",
+            "discount": null,
+            "discount_rate": null,
+            "end_date": null,
+            "full_description": "CARLTON Two-Sheet Station Posters\n46\" x 60\" Posters are printed 2 colors (red, black). on 70 coated outdoor stock. COPY FOR IDENTIFICATION: \"Today, If You Smoke Please Try CARLTON\" Warning Statement \"D\" to read: SURGEON GENERAL'S WARNING: Cigarette smoke contains Carbon Monoxide. Packing: Material to be kraft wrapped. Overruns to be held blank",
+            "hsn": null,
+            "id": 971608265,
+            "lot": null,
+            "normalized_description": null,
+            "order": 0,
+            "price": null,
+            "quantity": 1.0,
+            "reference": null,
+            "section": null,
+            "sku": "540",
+            "start_date": null,
+            "tags": [],
+            "tax": null,
+            "tax_rate": null,
+            "text": "540\t\tCARLTON Two-Sheet Station Posters\t\t$5.25 each\n46\" x 60\"\nPosters are printed 2 colors (red, black).\non 70 coated outdoor stock.\nCOPY FOR IDENTIFICATION:\n\"Today, If You Smoke Please Try CARLTON\"\nWarning Statement \"D\" to read: SURGEON\nGENERAL'S WARNING: Cigarette smoke\ncontains Carbon Monoxide.\nPacking: Material to be kraft wrapped.\nOverruns to be held blank",
+            "total": 5.25,
+            "type": "product",
+            "unit_of_measure": "each",
+            "upc": null,
+            "weight": null
+        }
+    ],
+    "meta": {
+        "language": [
+            "en"
+        ],
+        "owner": "juanp.salas",
+        "pages": [
+            {
+                "height": 1000,
+                "language": [
+                    "en"
+                ],
+                "width": 762
+            }
+        ],
+        "processed_pages": 1,
+        "source": "api",
+        "source_documents": [
+            {
+                "height": 1000,
+                "size_kb": 124,
+                "width": 762
+            }
+        ],
+        "total_pages": 1
+    },
+    "notes": null,
+    "ocr_text": "THE\tNA STAMARD FORUM\n\tSPECIAL NOTICE\n\u570b\nPO BOX 1080\nAMERICAN\tSTAMFORD CONNECTICUT 4-2380\t\tTHIS ORDER IS SUBJECT TO ACCEPTANCE EXPRESSLY\nTOBACCO\t\t\t\t\t\tLIMITED TO THE PROVISIONS ON THE FACE AND\n\tREVERSE SIDE AND TO THOSE APPENDED HERETO.\nCOMPANY\t\t\t\t\tOUR ORDER NUMBER, CODE NUMBER AND\n\tACCOUNTING CHARGE NUMBER MUST APPEAR ON ALL\n\tPACKAGES, CORRESPONDENCE AND INVOICES.\nBILLING INSTRUCTIONS-MAIL YOUR INVOICES IN DUPLICATE TO CONSIGNEE\nUNLESS INSTRUCTED OTHERWISE BELOW\nMAIL INVOICES TO OUR ADMINISTRATIVE CENTER,\nGENERAL ACCOUNTING OFFICE:\t\t\t\tPURCHASE ORDER NO. M11990\nPO BOX 1100\nCHESTER, VIRGINIA 23831-8100\t\t\t\tDATE\tOctober 10, 1990\nAS SHOWN BELOW\t\t\t\t\tREQ. NO. Auth. M-182; Budget AD1\nS TO:\nMACNAUGHTON EINSON GRAPHICS\tAS PER ATTACHED INSTRUCTIONS\nTwenty-Ten Maple Avenue\t\tBalance To Be Held In Inventory\nFairlawn, NJ 07410\nATTN: Mr. Denis Sullivan\n\nSHIPMENT TO ARRIVE NOT LATER THAN\t\t\t\tVIA\nPer Attached Instructions\t\tBest Way\t-\tLowest Cost Method\nFOB\t\t\t\t\t\tTERMS\nSee Attached\t\t\t\tNet 30 Days\nQUANTITY\tCODE NO.\t\t\tDESCRIPTION\t\t\tPRICE\n\n540\t\tCARLTON Two-Sheet Station Posters\t\t$5.25 each\n46\" x 60\"\nPosters are printed 2 colors (red, black).\non 70 coated outdoor stock.\nCOPY FOR IDENTIFICATION:\n\"Today, If You Smoke Please Try CARLTON\"\nWarning Statement \"D\" to read: SURGEON\nGENERAL'S WARNING: Cigarette smoke\ncontains Carbon Monoxide.\nPacking: Material to be kraft wrapped.\nOverruns to be held blank.\n\n\tContinued on next page\n\nACCOUNTING CHARGE NO.\n\tMarketing Adv. Expense.\nEXEMPTION CERTIFICATE\t\u25a1 IN YOUR FILES\nSTATE SALES TAX NOT TO BE CHARGED-SEE OUR\tDIRECT PAYMENT PERMIT\tATTACHED\nPlease contact V. Puleo\t\t\t\tMisce\non any questions regarding this Purchase Order.\t\tBy\n\nQUALITY OF PRODUCT IS ESSENTIAL TO CONTINUING SUCCESS",
+    "order_date": null,
+    "payment": {
+        "card_number": null,
+        "display_name": null,
+        "terms": "Net 30 Days",
+        "type": null
+    },
+    "pdf_url": "https://scdn.veryfi.com/receipts/546828ea174bda68/dac382bb-04b5-4b22-93c3-7800d4bb0658/f1d1d7f7-1b06-4771-aee2-411a7a43488e.pdf?Expires=1718893294&Signature=Y2nO-XUB1c0c2sqMMI3EoYGskhQXqWrfhQSxXseyET4OTEwNUNJC-4du-RdXLvzIACq3HYe7e3Sn0OqQj4KJ6SYKn-0tVU7AoMQuDGVlXyUYRRPeqb3sFz7dgrsXXJqMAddp5kg4iDwjJFUPpWx6etBN8J5X9fgfa4fdtD7i9AQUenpMT3GZyRj0Hd4m7UP6mkkeLFwbylw0n8YArJcNMvPSE899sK2lpAXbuK3d0qEDoDjJvXFkfj1jpXo9RoakUmhExX8w9YTaP1NstrEOAfmZ5btem1KnQBcYbsC2549FQSAHg4gSxlgPHOxCopG~8l6nkNWSzwmR0fcDsjMJoA__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "purchase_order_number": "M11990",
+    "reference_number": "VBJJI-71448",
+    "rounding": null,
+    "service_end_date": null,
+    "service_start_date": null,
+    "ship_date": null,
+    "ship_to": {
+        "address": null,
+        "name": null,
+        "parsed_address": null
+    },
+    "shipping": null,
+    "store_number": null,
+    "subtotal": null,
+    "tags": [],
+    "tax": null,
+    "tax_lines": [],
+    "tip": null,
+    "total": 5.25,
+    "total_weight": null,
+    "tracking_number": null,
+    "updated_date": "2024-06-20 14:06:34",
+    "vendor": {
+        "abn_number": null,
+        "account_number": null,
+        "address": null,
+        "bank_name": null,
+        "bank_number": null,
+        "bank_swift": null,
+        "category": null,
+        "email": null,
+        "fax_number": null,
+        "iban": null,
+        "lat": null,
+        "lng": null,
+        "logo": "https://cdn.veryfi.com/logos/tmp/526ec90f-7205-4a84-be97-aa99d861a6ec.png",
+        "name": "MACNAUGHTON EINSON GRAPHICS",
+        "phone_number": null,
+        "raw_address": null,
+        "raw_name": "MACNAUGHTON EINSON GRAPHICS",
+        "reg_number": null,
+        "type": null,
+        "vat_number": null,
+        "web": null
+    }
+}
