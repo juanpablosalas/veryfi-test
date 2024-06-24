@@ -1,0 +1,140 @@
+{
+    "account_number": null,
+    "bill_to": {
+        "address": null,
+        "name": null,
+        "parsed_address": null,
+        "vat_number": null
+    },
+    "cashback": null,
+    "category": "Advertising & Marketing",
+    "created_date": "2024-06-24 12:36:01",
+    "currency_code": "SGD",
+    "date": null,
+    "delivery_date": null,
+    "discount": null,
+    "document_reference_number": "10.1007/978-981-99-1999-4",
+    "document_title": null,
+    "document_type": null,
+    "due_date": null,
+    "duplicate_of": null,
+    "external_id": null,
+    "id": 218805849,
+    "img_file_name": "218805849.png",
+    "img_thumbnail_url": "https://scdn.veryfi.com/receipts/546828ea174bda68/1aaac02a-ca27-4268-b1a3-c9d79fdc7147/thumbnail.png?Expires=1719233465&Signature=UggIqA5wPpWZF8bXUA~qcnwJcmbXnZPDJlJ7j~HmpKl1wKCmC2P-4yzybiKzaUixcSywMToiHyS5g8UpoJ8bqla5iCj1xy5Oggt7fTO1BITjwMY38Lb6bTcN00k1XUsAx711Fi2WOC1u7EBfZi-~hiwLlobQ7lk27~kXyf9S0D6Qc7mMYcSKdZhPF3NWWtibtTLstEDDQN3HPwiqBHmzJGWTuhT7IZAZpu2KbG1e2qiUNoxkt~J-H8Kbo8eQkCLvCDtcBLvYAoZ-6ZaayW8INpeA85Qt-ZcDrcF6liA3S-oyOz5PSGpA1EFFful9GXYdowuSbUb-bv41ZvejGOHRHw__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "img_url": "https://scdn.veryfi.com/receipts/546828ea174bda68/1aaac02a-ca27-4268-b1a3-c9d79fdc7147/ada6b7fa-4d36-40ef-bc1d-d3d1886add75.png?Expires=1719233465&Signature=GUAeVuV7ps5vkBlIC2TuvtUdd2ZTiyJd0-BCY5nrZOYHDYHVSBlLohrR2K95XxOIISOlYFEEdqe~V2U00EWoaXaBJMBqXGKjX4HUjjtgcRamUwH5FWmy-asbapSyd8El1T7~fY8m2V2qF4uhkTyLnjDoDFNddsrJkmRyweNyeMAt3kH9lKP3x1rUZScpHjICe1QljdiseFA~hRUO0lzaAGn5wvtMLxggRUK14lvnCQqRaXO~GMTALpOau2ZfsXYvlHLGono52xmphrfxzCugL1ZnZm16wDbu3n0rhgW57kQ8Pi~94~KDj4R0UTE~OQ3zH0IlNfNQ~r2YkrNpi5jiEg__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "insurance": null,
+    "invoice_number": null,
+    "is_duplicate": false,
+    "is_money_in": null,
+    "line_items": [
+        {
+            "date": null,
+            "description": "R. S. T. Lee, Natural Language Processing\nhttps://doi.org/",
+            "discount": null,
+            "discount_rate": null,
+            "end_date": null,
+            "full_description": "R. S. T. Lee, Natural Language Processing, https://doi.org",
+            "hsn": null,
+            "id": 975695595,
+            "lot": null,
+            "normalized_description": null,
+            "order": 0,
+            "price": null,
+            "quantity": 1.0,
+            "reference": null,
+            "section": null,
+            "sku": null,
+            "start_date": null,
+            "tags": [],
+            "tax": null,
+            "tax_rate": null,
+            "text": "R. S. T. Lee, Natural Language Processing,\nhttps://doi.org/10.1007/978-981-99-1999-4_1",
+            "total": null,
+            "type": "service",
+            "unit_of_measure": null,
+            "upc": null,
+            "weight": null
+        }
+    ],
+    "meta": {
+        "language": [
+            "en"
+        ],
+        "owner": "juanp.salas",
+        "pages": [
+            {
+                "height": 1310,
+                "language": [
+                    "en"
+                ],
+                "width": 878
+            }
+        ],
+        "processed_pages": 1,
+        "source": "api",
+        "source_documents": [
+            {
+                "height": 1310,
+                "size_kb": 216,
+                "width": 878
+            }
+        ],
+        "total_pages": 1
+    },
+    "notes": null,
+    "ocr_text": "Chapter 1\nNatural Language Processing\t\tupdates\n\tCheck for\n\nConsider this scenario: Late in the evening, Jack starts a mobile app and talks with\nAI Tutor Max.\n\n1.1 Introduction\n\nThere are many chatbots that allow humans to communicate with a device in natural\nlanguage nowadays. Figure 1.1 illustrates dialogue between a student who had\nreturned to dormitory after a full day classes and initiated communication with a\nmobile application called AI Tutor 2.0 (Cui et al. 2020) from our latest research on\nAl tutor chatbot. The objective is to enable the user (Jack) not only can learn from\nbook reading but also can communicate candidly with Al Tutor 2.0 (Max) to provide\nknowledge responses in natural language. It is different from chatbots that respond\nwith basic commands but is human-computer interaction to demonstrate how a user\nwishes to communicate in a way like a student convers with a tutor about subject\nknowledge in the physical world. It is a dynamic process consisting of (1) world\nknowledge on simple handshaking dialogue such as greetings and general discus-\nsions. This is not an easy task as it involves knowledge and common sense to con-\nstruct a functional chatbot with daily dialogues, and (2) technical knowledge of a\nparticular knowledge domain, or domain expert as it required to learn from author's\nbook AI in Daily Life (Lee 2020) first which covers all basic knowledge on the sub-\nject to form a knowledge tree or ontology graph that can be served as a new type of\npublication and interactive device between human and computer to learn new\nknowledge.\nNatural language processing (NLP) is related to several disciplines including\nhuman linguistic, computation linguistic, statistical engineering, AI in machine\n\n\u00a9 The Author(s), under exclusive license to Springer Nature Singapore Pte\t\t3\nLtd. 2024\nR. S. T. Lee, Natural Language Processing,\nhttps://doi.org/10.1007/978-981-99-1999-4_1",
+    "order_date": null,
+    "payment": {
+        "card_number": null,
+        "display_name": null,
+        "terms": null,
+        "type": null
+    },
+    "pdf_url": "https://scdn.veryfi.com/receipts/546828ea174bda68/1aaac02a-ca27-4268-b1a3-c9d79fdc7147/8edf3e29-0216-4422-8690-b5cdf4859a92.pdf?Expires=1719233465&Signature=MVJm4nEgxV6eZtgvNAcR3dvT7S6yUQxErSpvmAHtYYDbn0BN4gszSaijTyDU~Lj~qtk9~d1rUec78~irVVRcr4p9lyYbUt8oengZUmIjsEYlE0YC3~3KVt-XE4chctUL~b-SAgEP02xq0nCAchxkaR0824vRDkj3nSxPKKtqljoW-LOJYzq6x3NFUxKB0CNBjnO4QpdsPwCWQc4oSmJNOTAe~win0o4vsx0hdjvIQ6rOEGcKH9AEWzHPRTG1bTwsgssytc0bu-ZkL66bxBL00dlk61rTvCgf49wefVC2fH2ux7zO3x0JEv9IuqtSHIX~~Qy4eBSuCl6AjpKbAFk9gw__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "purchase_order_number": null,
+    "reference_number": "VCAAI-05849",
+    "rounding": null,
+    "service_end_date": null,
+    "service_start_date": null,
+    "ship_date": null,
+    "ship_to": {
+        "address": null,
+        "name": null,
+        "parsed_address": null
+    },
+    "shipping": null,
+    "store_number": "2024",
+    "subtotal": null,
+    "tags": [],
+    "tax": null,
+    "tax_lines": [],
+    "tip": null,
+    "total": null,
+    "total_weight": null,
+    "tracking_number": null,
+    "updated_date": "2024-06-24 12:36:05",
+    "vendor": {
+        "abn_number": null,
+        "account_number": null,
+        "address": null,
+        "bank_name": null,
+        "bank_number": null,
+        "bank_swift": null,
+        "category": null,
+        "email": null,
+        "fax_number": null,
+        "iban": null,
+        "lat": null,
+        "lng": null,
+        "logo": "https://cdn.veryfi.com/logos/tmp/c14fc6b7-cacf-4d29-82b7-f2144cbb2494.png",
+        "name": "Springer Nature Singapore Pte",
+        "phone_number": null,
+        "raw_address": null,
+        "raw_name": "Springer Nature Singapore Pte",
+        "reg_number": null,
+        "type": null,
+        "vat_number": null,
+        "web": null
+    }
+}
