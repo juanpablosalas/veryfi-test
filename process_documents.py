@@ -5,10 +5,10 @@ import os
 import re
 
 
-client_id = 'vrfRLHOgd36OHTcs1oSrWWpl8FRR1N8BOvvThnk'
-client_secret = '08Bi0LBOFZRkfJySPFl0cLPimm03e3p7e6ZTd3S8JrB4iXICHXvig2eAyrOwOyjj07wxOosSwRZWHkY4IPCI21HYhu9umXKj5b2vW8ZANViHdW5CKr77rGueizKbDYIw'
-username = 'juanp.salas'
-api_key = 'e579f6549d06224cd0d8b72c854469e4'
+client_id = ''
+client_secret = ''
+username = ''
+api_key = ''
 
 categories = ['Advertising & Marketing']
 
